@@ -26,9 +26,11 @@ Choose the loader that works best for your requirements. If in doubt, opt for th
 
 ## Installation
 
-TBA
+- Open Powershell
+- Set-ExecutionPolicy -ExecutionPolicy bypass -Scope process
+- .\install.ps1
 
-## Questions?
+## Questions
 
 Open issue
 
